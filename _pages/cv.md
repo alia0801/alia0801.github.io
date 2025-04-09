@@ -11,35 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical Engineering, National Cheng Kung University, Tainan, Taiwan, 2027 (expected)
+* M.S. in Electrical Engineering, National Cheng Kung University, Tainan, Taiwan, 2023
+* B.S. in Engineering Science, National Cheng Kung University, Tainan, Taiwan, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021/09 – present: Research Assistant,
+  * Urban Science and Computing Lab, NCKU, Taiwan
+  * Duties includes: 
+  * Advisor: Prof. Hsun-Ping Hsieh
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022/07 - 2022/08: Intern
+  * Duties includes: 
+  * Smart Protect Network Team, Trend Micro, Taiwan
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019/06 –2022/06: Research Assistant
+  * Knowledge Discovery Lab, NCKU, Taiwan
+  * Duties includes: 
+  * Advisor: Prof. Wei-Guang Teng
+
+* 2020/07 - 2020/08: Intern	
+  * Duties includes: 
+  * C5E AI Team, AUO, Taiwan
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -47,7 +50,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
