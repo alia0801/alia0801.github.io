@@ -1,0 +1,14 @@
+---
+title: "ParkFlow: Intelligent Dispersal for Mitigating Parking Shortages Using Multi-Granular Spatial-Temporal Analysis"
+collection: publications
+category: conferences
+permalink: /publication/2023-10-21-paper-parkflow
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2023-10-21
+venue: 'Proceedings of the 32nd ACM International Conference on Information and Knowledge Management'
+slidesurl: ''
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3583780.3614751'
+citation: 'Yang Fan Chiang, Chun-Wei Shen, Jhe-Wei Tsai, Pei-Xuan Li, Tzu-Chang Lee, and Hsun-Ping Hsieh. 2023. ParkFlow: Intelligent Dispersal for Mitigating Parking Shortages Using Multi-Granular Spatial-Temporal Analysis. In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM '23). Association for Computing Machinery, New York, NY, USA, 5036–5040. https://doi.org/10.1145/3583780.3614751'
+---
+
+Parking behaviors near popular destinations often exhibit a preference for proximity, resulting in poor habits, limited parking availability, and a range of consequential issues such as traffic chaos, economic challenges due to congestion, and imbalanced parking utilization. Taiwan has also faced escalating challenges in this regard. To effectively address these issues, the Government of Taiwan has initiated the Smart City program, encompassing various initiatives to enhance urban functionality. One notable solution implemented under this program is the Smart Parking Meter System (SPMS), designed to enhance the overall parking experience. The SPMS incorporates intelligent billing and secure parking data transmission, ensuring a safer and improved parking environment. In this paper, we propose ParkFlow, a comprehensive software-based solution that seamlessly integrates with smart parking hardware, presenting a holistic approach to tackling these challenges. ParkFlow intelligently disperses parking shortages in highly frequented areas and addresses the problem from multiple perspectives, including user, engineering, and government scenarios. By exploring and addressing these scenarios, we aim to provide valuable insights and inspiration to regions worldwide grappling with similar parking-related difficulties. Based on historical data analysis, the implementation of ParkFlow in resolving the parking imbalance problem is anticipated to lead to a significant increase of up to 10% to 20% in available parking hours in popular areas of Tainan, Taiwan. ParkFlow is in the process of being integrated into the Tainan City Government's Parking application, indicating its potential to address real-world parking challenges.
