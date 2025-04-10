@@ -1,10 +1,10 @@
 ---
-title: "Discrete Mathematics, EE 4600"
+title: "Data Engineering for Smart Cities, CCE 5502"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "Graduate course"
+permalink: /teaching/2022-2023-fall-smart-city
 # venue: "University 1, Department"
-date: 2021-09 ~ 2022-01
+date: 2022-09 ~ 2023-01, 2023-09 ~ 2024-01
 location: "Tainan, Taiwan"
 ---
 
