@@ -2,7 +2,7 @@
 title: "Forecasting Dengue Fever Risk in Regions without Sensors Using Multi-View Graph Fusion Recurrent Neural Network"
 collection: publications
 category: conferences
-permalink: /publication/2023-11-13-paper-MVGFRNN
+permalink: /publication/2023-11-13-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-11-13
 venue: 'Proceedings of the 31st ACM International Conference on Advances in Geographic Information Systems'

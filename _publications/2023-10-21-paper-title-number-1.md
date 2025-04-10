@@ -2,7 +2,7 @@
 title: "ParkFlow: Intelligent Dispersal for Mitigating Parking Shortages Using Multi-Granular Spatial-Temporal Analysis"
 collection: publications
 category: conferences
-permalink: /publication/2023-10-21-paper-parkflow
+permalink: /publication/2023-10-21-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-10-21
 venue: 'Proceedings of the 32nd ACM International Conference on Information and Knowledge Management'
