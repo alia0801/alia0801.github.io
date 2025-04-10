@@ -2,9 +2,9 @@
 title: "Data Engineering for Smart Cities, CCE 5502"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2022-2023-fall-smart-city
+permalink: /teaching/2022-fall-smart-city
 # venue: "University 1, Department"
-date: 2022-09 ~ 2023-01, 2023-09 ~ 2024-01
+date: 2022-09-01
 location: "Tainan, Taiwan"
 ---
 
