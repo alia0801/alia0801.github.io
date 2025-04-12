@@ -41,6 +41,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Awards
+=====
+  <ul>{% for post in site.awards reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}

@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-06-10-pakdd-mgdsgat
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2025-06-10
-venue: 'Proceedings of the 2025 Pacific-Asia Conference on Knowledge Discovery and Data Mining, 2025'
+venue: 'Proceedings of the 2025 Pacific-Asia Conference on Knowledge Discovery and Data Mining'
 slidesurl: ''
 paperurl: ''
 citation: "Pei-Xuan Li, Jia-Lung Lin, Hsun-Ping Hsieh*. Session-based Recommendation with Multi-granularity User Intent and Dual-channel Sparse Graph Attention Networks. In Proceedings of the 2025 Pacific-Asia Conference on Knowledge Discovery and Data Mining, 2025 (PAKDD’25)"

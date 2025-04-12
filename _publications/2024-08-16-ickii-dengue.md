@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-08-16-ickii-dengue
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-08-16
-venue: '7th International Conference on Knowledge Innovation and Invention 2024'
+venue: '7th International Conference on Knowledge Innovation and Invention'
 slidesurl: ''
 paperurl: ''
 citation: "Hung Wei Lee, Hsun-Ping Hsieh, Pei-Xuan Li, Chih Ching Tsao, Ally Chang, Po-Jui Lai, Zheng Lu. Dengue Risk Detection and Observation System. IEEE International Conference on Knowledge Innovation and Invention (ICKII) 2024 (Best paper award)"
