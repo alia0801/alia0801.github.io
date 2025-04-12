@@ -2,7 +2,7 @@
 title: "ExoFIA: Deep Exogenous Assistance in the Prediction of the Influence of Fake News with Social Media Explainability"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-04-22-appsci-exofia
+permalink: /publication/2023-06-02-appsci-exofia
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2023-06-02
 venue: 'Applied Sciences'

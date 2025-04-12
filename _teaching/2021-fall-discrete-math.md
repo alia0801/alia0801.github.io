@@ -3,7 +3,7 @@ title: "Discrete Mathematics, EE 4600"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-discrete-math
-# venue: "University 1, Department"
+venue: "National Cheng Kung University, Department of Electrical Engineering"
 date: 2021-09-01 
 location: "Tainan, Taiwan"
 ---

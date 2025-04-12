@@ -2,9 +2,9 @@
 title: "Session-based Recommendation with Multi-granularity User Intent and Dual-channel Sparse Graph Attention Networks"
 collection: publications
 category: conferences
-permalink: /publication/2025-06-10-pakdd-mgdsgat
+permalink: /publication/2025-06-11-pakdd-mgdsgat
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2025-06-10
+date: 2025-06-11
 venue: 'Proceedings of the 2025 Pacific-Asia Conference on Knowledge Discovery and Data Mining, 2025'
 slidesurl: ''
 paperurl: ''
