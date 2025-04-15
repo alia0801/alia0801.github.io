@@ -1,15 +1,15 @@
 ---
-title: "Master Thesis Award in Golden Picture Award"
+title: "Best Master Thesis Award in SDGs Academic Paper Award"
 collection: awards
 category: domestic
 # type: "Teaching assistant of undergraduate course"
-permalink: /awards/2024-07-14-golden-picture
-venue: "Taiwan Geographic Information Society (TGIS)"
-date: 2024-07-14 
+permalink: /awards/2023-11-17-sdgs-acdemic-paper
+venue: "Taiwan Institute for Sustainable Energy (TAISE) and CTCI Education Foundation (CTCI EF)"
+date: 2023-11-17 
 # location: "Tainan, Taiwan"
 ---
 
-Master Thesis Award in spatial information fields.
+SDGs Academic Paper Award
 
 <!-- This is a description of a teaching experience. You can use markdown like any other post.
 

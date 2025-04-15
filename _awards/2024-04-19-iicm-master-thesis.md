@@ -1,15 +1,15 @@
 ---
-title: "Master Thesis Award in Golden Picture Award"
+title: "IICM Master Thesis Award - Outstanding"
 collection: awards
 category: domestic
 # type: "Teaching assistant of undergraduate course"
-permalink: /awards/2024-07-14-golden-picture
-venue: "Taiwan Geographic Information Society (TGIS)"
-date: 2024-07-14 
+permalink: /awards/2024-04-19-iicm-master
+venue: "Institute of Information & Computing Machinery (IICM)"
+date: 2024-04-19 
 # location: "Tainan, Taiwan"
 ---
 
-Master Thesis Award in spatial information fields.
+Master Thesis Award in computer sciense.
 
 <!-- This is a description of a teaching experience. You can use markdown like any other post.
 

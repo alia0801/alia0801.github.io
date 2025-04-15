@@ -1,5 +1,5 @@
 ---
-title: "Discrete Mathematics, EE 4600"
+title: "Discrete Mathematics, EE 4600, NCKU-EE"
 collection: teaching
 type: "Teaching assistant of undergraduate course"
 permalink: /teaching/2021-fall-discrete-math

@@ -1,5 +1,5 @@
 ---
-title: "Data Engineering for Smart Cities, CCE 5502"
+title: "Data Engineering for Smart Cities, CCE 5502, NCKU-EE"
 collection: teaching
 type: "Teaching assistant of graduate course"
 permalink: /teaching/2023-fall-smart-city
