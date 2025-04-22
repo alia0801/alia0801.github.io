@@ -19,7 +19,36 @@ Education
 * M.S. in Electrical Engineering, National Cheng Kung University, Tainan, Taiwan, 2023
 * B.S. in Engineering Science, National Cheng Kung University, Tainan, Taiwan, 2021
 
-Work experience
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Awards
+=====
+  <ul>{% for post in site.awards reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Service
+======
+### External Reviewer
+* Journal of Information Science and Engineering (2023)
+### Sub-Reviewer
+* ACM SIGIR (2021, 2024, 2025)
+* ACM KDD (2022-2024)
+### Student Volunteer
+* Reception desk volunteer of the 31st ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL '23)
+
+Teaching experience
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Working experience
 ======
 * 2021/09 – present: Research Assistant,
   * Urban Science and Computing Lab, NCKU, Taiwan
@@ -34,21 +63,3 @@ Work experience
 
 * 2020/07 - 2020/08: Intern	
   * C5E AI Team, AUO, Taiwan
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Awards
-=====
-  <ul>{% for post in site.awards reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
