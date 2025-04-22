@@ -36,9 +36,11 @@ Service
 ======
 ### External Reviewer
 * Journal of Information Science and Engineering (2023)
+
 ### Sub-Reviewer
 * ACM SIGIR (2021, 2024, 2025)
 * ACM KDD (2022-2024)
+
 ### Student Volunteer
 * Reception desk volunteer of the 31st ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL '23)
 
