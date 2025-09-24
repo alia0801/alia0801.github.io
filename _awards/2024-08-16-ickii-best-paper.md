@@ -1,5 +1,5 @@
 ---
-title: "IEEE ICKII Best Conference Paper Award"
+title: "2024 IEEE ICKII Best Conference Paper Award"
 collection: awards
 category: international
 # type: "Teaching assistant of undergraduate course"
@@ -11,6 +11,7 @@ date: 2024-08-16
 
 The Best Conference Paper Award is selected from excellent papers of ICKII 2024.
 The committees of ICKII 2024 select part of papers presented in the conference to give this award.
+Paper title: "Dengue Risk Detection and Observation System"
 
 <!-- This is a description of a teaching experience. You can use markdown like any other post.
 
