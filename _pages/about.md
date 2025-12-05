@@ -34,6 +34,9 @@ Awards
 
 Service
 ======
+### Program Committee 
+* Full Paper Track, the 34th ACM International Conference on Information and Knowledge Management (2025)
+
 ### External Reviewer
 * Journal of Information Science and Engineering (2023)
 
